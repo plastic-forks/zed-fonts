@@ -1,3 +1,6 @@
+## Version 1.2.2
+- Symbols: `(`
+
 ## Version 1.2.1
 - Symbols: `(`, `%`
 
